@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! Eu sou o Junior 👋
 
-<!--
-**AntonioP-Junior/AntonioP-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar interfaces modernas e resolver problemas complexos no back-end e banco de dados usando código eficiente.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 💻 Focado hoje no desenvolvimento de sistemas sólidos de ponta a ponta.
+- 🧠 Mantenho minha stack afiada no ecossistema de dados e aplicações web.
+- 🎯 Sempre em busca de novos desafios e aprender novas abordagens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="TypeScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL (SQL)" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL (SQL)" />
+</div>
+
+<br/>
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <!-- Estatísticas Gerais do GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioP-Junior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- Linguagens mais utilizadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioP-Junior&layout=compact&langs_count=5&theme=tokyonight"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Ofensiva (Streak) de Commits -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioP-Junior&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Os dados são o novo petróleo, e o código é a refinaria."</i>
+</div>
