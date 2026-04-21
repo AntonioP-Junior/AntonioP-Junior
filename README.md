@@ -44,3 +44,5 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar 
 <div align="center">
   <i>"Os dados são o novo petróleo, e o código é a refinaria."</i>
 </div>
+  <!-- Estatísticas Gerais do GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioP-Junior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
